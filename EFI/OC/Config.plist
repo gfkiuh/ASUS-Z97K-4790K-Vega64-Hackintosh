@@ -587,12 +587,12 @@
 			<key>SystemProductName</key>
 			<string>iMac15,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02N9066FY10</string>
+			<string></string>
 		</dict>
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>C02435306GUG2Y71M</string>
+			<string></string>
 			<key>ROM</key>
 			<data>cIXCrYAP</data>
 			<key>SpoofVendor</key>
@@ -600,14 +600,14 @@
 			<key>SystemProductName</key>
 			<string>iMac15,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02N9066FY10</string>
+			<string></string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
 			<key>BID</key>
 			<string>Mac-42FD25EABCABB274</string>
 			<key>MLB</key>
-			<string>C02435306GUG2Y71M</string>
+			<string></string>
 			<key>ROM</key>
 			<data>cIXCrYAP</data>
 		</dict>
@@ -628,7 +628,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-42FD25EABCABB274</string>
 			<key>BoardSerialNumber</key>
-			<string>C02435306GUG2Y71M</string>
+			<string></string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -638,7 +638,7 @@
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>C02N9066FY10</string>
+			<string></string>
 			<key>ChassisType</key>
 			<integer>13</integer>
 			<key>ChassisVersion</key>
@@ -660,7 +660,7 @@
 			<key>SystemSKUNumber</key>
 			<string>Mac-42FD25EABCABB274</string>
 			<key>SystemSerialNumber</key>
-			<string>C02N9066FY10</string>
+			<string></string>
 			<key>SystemUUID</key>
 			<string></string>
 			<key>SystemVersion</key>
